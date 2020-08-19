@@ -1,0 +1,72 @@
+body {
+	background: black;
+}
+
+.logo img{
+    position: absolute;
+	max-width: 22%;
+	left: 3%;
+	top: 4%;
+}
+
+.mosaicoUm{
+	text-align: center;
+}
+
+
+.mosaicoUm img {
+	max-width: 33%;
+	display: inline-block;
+}
+
+
+.emConstrucao{
+	color: white;
+	margin: 15px;
+	border: 2px solid sandybrown;
+}
+
+.fonteConstrucao {
+	font-size: 400%;
+	text-align: center;
+	padding: 15px;
+}
+
+.fonteContato {
+	font-size: 200%;
+	text-align: center;
+	padding: 15px;
+}
+
+
+.mosaicoDois{
+	text-align: center;
+}
+
+
+.mosaicoDois img {
+	max-width: 33%;
+	display: inline-block;
+}
+
+
+.mosaicoTres{
+	text-align: center;
+}
+
+.mosaicoTres img {
+	max-width: 33%;
+	max-height: 470px;
+	display: inline-block;
+}
+
+.mosaicoQuatro{
+	text-align: center;
+}
+
+
+.mosaicoQuatro img {
+	max-width: 33%;
+	display: inline-block;
+}
+
